@@ -1,5 +1,3 @@
-<a href='https://silvia.rbind.io'><img src='https://github.com/spcanelon/silvia/blob/main/static/img/silvia-social.png?raw=true' align="right" height="200" alt=''/></a>
-
 # Personal website for<br>Andreas Filser
 
 This is the repo for [my personal website]() - welcome!
