@@ -1,0 +1,46 @@
+$spc-blue: #012052;
+$white: #fcfefa;
+
+// col palette
+$spc-bg: #fffdf5; 
+$spc-bg-dark: #FFFDEB; //#FFFDE4; // #00FDFF; // #00284D; // #020D53; //1D1638; // sidebar color
+$spc-primary: #020D53; 
+$spc-primary-light: #150794; // #003A86; 
+$spc-secondary: #F66204; // dark orange
+$spc-secondary-light: #936c10; // 
+
+// set custom hex colors
+$siteBgColorCustom: $spc-bg;                   // site background
+$textColorCustom: $spc-primary-light;          // all text, including headings
+$bodyLinkColorCustom: $spc-secondary;          // main body links/anchors
+
+$sidebarBgColorCustom: $spc-bg-dark;           // sidebar background
+$sidebarTextColorCustom: $spc-secondary-light;   // text in sidebar
+$sidebarLinkColorCustom: $spc-secondary-light;   // links in sidebar
+
+$headlineColorCustom: $spc-primary;            // headline & name in About, event detail text
+$headingColorCustom: $spc-primary;             // headings (in browser only)
+$navLinkColorCustom: $spc-secondary;           // navbar & footer links/icons
+$footerTextColorCustom: $spc-primary-light;    // footer text
+
+$buttonBgColorCustom: $spc-primary-light;    // contact form button background
+$buttonTextColorCustom: $white;                // contact form button
+$buttonHoverBgColorCustom: mix($spc-secondary, $white, 85); // any button background w/ hover
+$buttonHoverTextColorCustom: $white;           // any button text w/ hover
+
+$borderColorCustom: $spc-primary-light;        // quote bar, horizontal bars
+
+
+// own blockquote
+div.cvbox {
+  padding: 0em;
+  margin: 0em 0;
+  background-color: transparent;
+  border: solid 0px #000000;
+  text-indent: 2em, hanging;
+}
+p.indented {
+  margin: 0;
+  text-indent: 33px;
+  color: #005F93; // #007A8C; // #0092A8; // #828594; // #9497A8;
+}
