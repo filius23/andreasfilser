@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kinderzahl on Andreas Filser</title>
-    <link>/tags/kinderzahl/</link>
+    <link>https://afilser.netlify.app/tags/kinderzahl/</link>
     <description>Recent content in Kinderzahl on Andreas Filser</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 15 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="/tags/kinderzahl/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 15 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://afilser.netlify.app/tags/kinderzahl/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Update: Identifying Mothers in Administrative Data</title>
-      <link>/publication/2022_update_identifying_mothers/</link>
+      <link>https://afilser.netlify.app/publication/2022_update_identifying_mothers/</link>
       <pubDate>Sat, 15 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>/publication/2022_update_identifying_mothers/</guid>
+      <guid>https://afilser.netlify.app/publication/2022_update_identifying_mothers/</guid>
       <description>Abstract   Administrative data of the Federal Employment Agency provide an important data base for labour market research. However, the Federal Employment Agency&amp;rsquo;s tasks define what kind of information is recorded. Therefore, some information is missing that is relevant for various research purposes. One example is information on childbirth, which can be important when analysing female employment biographies. It is still mainly mothers who interrupt their employment to care for their children.</description>
     </item>
     

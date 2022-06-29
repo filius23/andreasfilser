@@ -23,4 +23,8 @@ blogdown::serve_site()
   
 
 usethis::use_git_config()
-usethis::use_git()
+usethis::use_github()
+
+blogdown::config_netlify()
+
+blogdown::check_netlify()

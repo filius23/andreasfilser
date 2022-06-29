@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Teaching on Andreas Filser</title>
-    <link>/courses/</link>
+    <link>https://afilser.netlify.app/courses/</link>
     <description>Recent content in Teaching on Andreas Filser</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 28 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="/courses/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 28 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://afilser.netlify.app/courses/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Statistik 1 &amp; 2 an der Uni Oldenburg</title>
-      <link>/courses/uni-oldenburg/</link>
+      <link>https://afilser.netlify.app/courses/uni-oldenburg/</link>
       <pubDate>Mon, 28 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>/courses/uni-oldenburg/</guid>
+      <guid>https://afilser.netlify.app/courses/uni-oldenburg/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Stata-Kurse am BIBB</title>
-      <link>/courses/bibb/</link>
+      <link>https://afilser.netlify.app/courses/bibb/</link>
       <pubDate>Mon, 20 Dec 2021 00:00:00 +0000</pubDate>
       
-      <guid>/courses/bibb/</guid>
+      <guid>https://afilser.netlify.app/courses/bibb/</guid>
       <description> Kursunterlagen     Einführung in Stata mit statistischem Hintergrundwissen     Einführung in Stata für fortgeschrittene Anwender:innen anderer Programme     Tabellenexport in Word und Latex mit Stata     Programmieren mit Stata     </description>
     </item>
     
