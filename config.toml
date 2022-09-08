@@ -89,7 +89,7 @@ enableEmoji = true
       title     = "IAB Homepage"
       icon      = "desktop" # icon name without the 'fa-'
       icon_pack = "fas"
-      url       = "https://fdz.iab.de/en/FDZ_Contact/team-member-details.aspx/Mitarbeiter/5370712"
+      url       = "https://iab.de/mitarbeiter/?id=5370712"
   [[params.social]]
       icon      = "google-scholar" # icon name without the 'fa-'
       icon_pack = "ai"
