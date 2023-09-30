@@ -17,6 +17,7 @@ library(kableExtra)
 **[Click here for a detailed publication list including abstracts](/publication)**
 
 ```{r,echo=F}
+# rstudioapi::navigateToFile("./publication/bibtex_2publist.R") 
 source("./publication/bibtex_2publist.R") 
 ```
 
