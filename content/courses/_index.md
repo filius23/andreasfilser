@@ -12,7 +12,7 @@ cascade:
     text_link_label: View recent posts
     text_link_url: /blog/
 description: | 
-  This is a list of openly available educational material I have created for courses I have taught over the years. <br>
+  This is a list of openly available educational material for courses I have taught over the years. <br>
   All materials are in German, but I'm happy to also teach in English. <br>
   If you're interested - feel free to [contact](/contact) me!
 layout: list-sidebar
