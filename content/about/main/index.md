@@ -11,10 +11,9 @@ intro: |
   
   My research focuses upon the labour market consequences of motherhood and how couples navigate the labour market when transitioning into parenthood. Currently, I am part of an international project where we analyse the employment trajectories of mothers in France and Germany.
   
-  Moreover, I am interested in consequences of imbalanced numbers of women and men in groups or regions, i.e. imbalanced sex ratios. In my dissertation project, I analysed how skewed sex ratios are associated with the formation of relationships, risk-taking, and violence.
-
-  I enjoy the linkage, procurement, and analysis of data using R and Stata. In a recent [paper](/publication/2022_update_identifying_mothers/), we updated the identification process of mothers in the labour market data at the IAB. Currently, I am developing shiny dashboards to streamline processes at the FDZ-IAB and I am working on a record linkage of unstructured residential information in the [pairfam](https://www.pairfam.de) data.
+  I enjoy the linkage, procurement, and analysis of data using R and Stata. In a recent [paper](/publication/2022_update_identifying_mothers/), we updated the identification process of mothers in the labour market data at the IAB. Another [paper]() provides smartphone-based mobility indicators for PASS participations. Currently, I am developing an [R-shiny](shiny.rstudio.com/) dashboard to streamline data applications at the FDZ-IAB.
   
+  Moreover, I am interested in consequences of imbalanced numbers of women and men in groups or regions, i.e. imbalanced sex ratios. In my dissertation project, I analysed how skewed sex ratios are associated with the formation of relationships, risk-taking, and violence.
   
   Beyond research, I enjoy teaching applied statistics and programming using R and Stata. Find a collection of course materials [here](/courses).
 
