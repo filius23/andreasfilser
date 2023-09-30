@@ -3,9 +3,7 @@ action_label: More about me &rarr;
 action_link: /about
 action_type: text
 description: |
-  I am a sociologist and demographer at the Research Data Centre of the Institute for Employment Research. My research focuses on 
-  parent and mothers in the labour market as well as relationship formation. <br>
-  I also enjoy teaching statistics and programming using R and Stata. 
+  I am a sociologist and demographer at the Research Data Centre of the Institute for Employment Research. My research focuses on parents in the labour market, especially fathers' parental leave take-up and maternal employment. I also enjoy programming using R and Stata and teaching these skills. 
 image_left: false
 images:
 - img/round2.png
