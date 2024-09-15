@@ -99,9 +99,9 @@ enableEmoji = true
       icon_pack = "fab"
       url       = "https://github.com/filius23"
   [[params.social]]
-      icon      = "twitter" # icon name without the 'fa-'
+      icon      = "bluesky" # icon name without the 'fa-'
       icon_pack = "fab"
-      url       = "https://twitter.com/Filius0815"
+      url       = "https://bsky.app/profile/filsa.bsky.social"
   [[params.social]]
       icon      = "orcid" # icon name without the 'fa-'
       icon_pack = "ai"
