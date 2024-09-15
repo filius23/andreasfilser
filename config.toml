@@ -99,8 +99,8 @@ enableEmoji = true
       icon_pack = "fab"
       url       = "https://github.com/filius23"
   [[params.social]]
-      icon      = "linux" # icon name without the 'fa-'
-      icon_pack = "fab"
+      icon      = "bluesky" # icon name without the 'fa-'
+      icon_pack = "fas"
       url       = "https://bsky.app/profile/filsa.bsky.social"
   [[params.social]]
       icon      = "orcid" # icon name without the 'fa-'
