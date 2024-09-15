@@ -1,4 +1,3 @@
-if(Sys.getenv("USERNAME") == "filse" ) .libPaths("D:/R-library4") 
 library(blogdown) # load blogdown
 # new_site(theme = "hugo-apero/hugo-apero", 
 #          format = "toml",
