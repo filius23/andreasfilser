@@ -2,316 +2,249 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Andreas Filser</title>
-    <link>https://afilser.netlify.app/tags/</link>
+    <link>http://localhost:4321/tags/</link>
     <description>Recent content in Tags on Andreas Filser</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 09 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://afilser.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 09 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:4321/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Adults</title>
-      <link>https://afilser.netlify.app/tags/adults/</link>
+      <link>http://localhost:4321/tags/adults/</link>
       <pubDate>Thu, 09 Jun 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://afilser.netlify.app/tags/adults/</guid>
+      <guid>http://localhost:4321/tags/adults/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Culture</title>
-      <link>https://afilser.netlify.app/tags/culture/</link>
+      <link>http://localhost:4321/tags/culture/</link>
       <pubDate>Thu, 09 Jun 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://afilser.netlify.app/tags/culture/</guid>
+      <guid>http://localhost:4321/tags/culture/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>France</title>
-      <link>https://afilser.netlify.app/tags/france/</link>
+      <link>http://localhost:4321/tags/france/</link>
       <pubDate>Thu, 09 Jun 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://afilser.netlify.app/tags/france/</guid>
+      <guid>http://localhost:4321/tags/france/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Human Families</title>
-      <link>https://afilser.netlify.app/tags/human-families/</link>
+      <link>http://localhost:4321/tags/human-families/</link>
       <pubDate>Thu, 09 Jun 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://afilser.netlify.app/tags/human-families/</guid>
+      <guid>http://localhost:4321/tags/human-families/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>North America</title>
-      <link>https://afilser.netlify.app/tags/north-america/</link>
+      <link>http://localhost:4321/tags/north-america/</link>
       <pubDate>Thu, 09 Jun 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://afilser.netlify.app/tags/north-america/</guid>
+      <guid>http://localhost:4321/tags/north-america/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Population Growth</title>
-      <link>https://afilser.netlify.app/tags/population-growth/</link>
+      <link>http://localhost:4321/tags/population-growth/</link>
       <pubDate>Thu, 09 Jun 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://afilser.netlify.app/tags/population-growth/</guid>
+      <guid>http://localhost:4321/tags/population-growth/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Sex Ratio</title>
-      <link>https://afilser.netlify.app/tags/sex-ratio/</link>
+      <link>http://localhost:4321/tags/sex-ratio/</link>
       <pubDate>Thu, 09 Jun 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://afilser.netlify.app/tags/sex-ratio/</guid>
+      <guid>http://localhost:4321/tags/sex-ratio/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Valleys</title>
-      <link>https://afilser.netlify.app/tags/valleys/</link>
+      <link>http://localhost:4321/tags/valleys/</link>
       <pubDate>Thu, 09 Jun 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://afilser.netlify.app/tags/valleys/</guid>
+      <guid>http://localhost:4321/tags/valleys/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Adolescent Health</title>
-      <link>https://afilser.netlify.app/tags/adolescent-health/</link>
+      <link>http://localhost:4321/tags/adolescent-health/</link>
       <pubDate>Sat, 15 Jan 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://afilser.netlify.app/tags/adolescent-health/</guid>
+      <guid>http://localhost:4321/tags/adolescent-health/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Bundesagentur Für Arbeit</title>
-      <link>https://afilser.netlify.app/tags/bundesagentur-f%C3%BCr-arbeit/</link>
+      <link>http://localhost:4321/tags/bundesagentur-f%C3%BCr-arbeit/</link>
       <pubDate>Sat, 15 Jan 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://afilser.netlify.app/tags/bundesagentur-f%C3%BCr-arbeit/</guid>
+      <guid>http://localhost:4321/tags/bundesagentur-f%C3%BCr-arbeit/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Bundesrepublik Deutschland</title>
-      <link>https://afilser.netlify.app/tags/bundesrepublik-deutschland/</link>
+      <link>http://localhost:4321/tags/bundesrepublik-deutschland/</link>
       <pubDate>Sat, 15 Jan 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://afilser.netlify.app/tags/bundesrepublik-deutschland/</guid>
+      <guid>http://localhost:4321/tags/bundesrepublik-deutschland/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Daten</title>
-      <link>https://afilser.netlify.app/tags/daten/</link>
+      <link>http://localhost:4321/tags/daten/</link>
       <pubDate>Sat, 15 Jan 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://afilser.netlify.app/tags/daten/</guid>
+      <guid>http://localhost:4321/tags/daten/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Datenanalyse</title>
-      <link>https://afilser.netlify.app/tags/datenanalyse/</link>
+      <link>http://localhost:4321/tags/datenanalyse/</link>
       <pubDate>Sat, 15 Jan 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://afilser.netlify.app/tags/datenanalyse/</guid>
+      <guid>http://localhost:4321/tags/datenanalyse/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Erwerbsunterbrechung</title>
-      <link>https://afilser.netlify.app/tags/erwerbsunterbrechung/</link>
+      <link>http://localhost:4321/tags/erwerbsunterbrechung/</link>
       <pubDate>Sat, 15 Jan 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://afilser.netlify.app/tags/erwerbsunterbrechung/</guid>
+      <guid>http://localhost:4321/tags/erwerbsunterbrechung/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Kinderzahl</title>
-      <link>https://afilser.netlify.app/tags/kinderzahl/</link>
+      <link>http://localhost:4321/tags/kinderzahl/</link>
       <pubDate>Sat, 15 Jan 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://afilser.netlify.app/tags/kinderzahl/</guid>
+      <guid>http://localhost:4321/tags/kinderzahl/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Mütter</title>
-      <link>https://afilser.netlify.app/tags/m%C3%BCtter/</link>
+      <link>http://localhost:4321/tags/m%C3%BCtter/</link>
       <pubDate>Sat, 15 Jan 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://afilser.netlify.app/tags/m%C3%BCtter/</guid>
+      <guid>http://localhost:4321/tags/m%C3%BCtter/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Peer Effects</title>
-      <link>https://afilser.netlify.app/tags/peer-effects/</link>
+      <link>http://localhost:4321/tags/peer-effects/</link>
       <pubDate>Sat, 15 Jan 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://afilser.netlify.app/tags/peer-effects/</guid>
+      <guid>http://localhost:4321/tags/peer-effects/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>School Injury</title>
-      <link>https://afilser.netlify.app/tags/school-injury/</link>
+      <link>http://localhost:4321/tags/school-injury/</link>
       <pubDate>Sat, 15 Jan 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://afilser.netlify.app/tags/school-injury/</guid>
+      <guid>http://localhost:4321/tags/school-injury/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Sex Composition</title>
-      <link>https://afilser.netlify.app/tags/sex-composition/</link>
+      <link>http://localhost:4321/tags/sex-composition/</link>
       <pubDate>Sat, 15 Jan 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://afilser.netlify.app/tags/sex-composition/</guid>
+      <guid>http://localhost:4321/tags/sex-composition/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Covid19</title>
-      <link>https://afilser.netlify.app/tags/covid19/</link>
+      <link>http://localhost:4321/tags/covid19/</link>
       <pubDate>Fri, 15 Oct 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://afilser.netlify.app/tags/covid19/</guid>
+      <guid>http://localhost:4321/tags/covid19/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Emerging Adulthood</title>
-      <link>https://afilser.netlify.app/tags/emerging-adulthood/</link>
+      <link>http://localhost:4321/tags/emerging-adulthood/</link>
       <pubDate>Fri, 15 Oct 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://afilser.netlify.app/tags/emerging-adulthood/</guid>
+      <guid>http://localhost:4321/tags/emerging-adulthood/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Life Satisfaction</title>
-      <link>https://afilser.netlify.app/tags/life-satisfaction/</link>
+      <link>http://localhost:4321/tags/life-satisfaction/</link>
       <pubDate>Fri, 15 Oct 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://afilser.netlify.app/tags/life-satisfaction/</guid>
+      <guid>http://localhost:4321/tags/life-satisfaction/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Longitudinal Changes</title>
-      <link>https://afilser.netlify.app/tags/longitudinal-changes/</link>
+      <link>http://localhost:4321/tags/longitudinal-changes/</link>
       <pubDate>Fri, 15 Oct 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://afilser.netlify.app/tags/longitudinal-changes/</guid>
+      <guid>http://localhost:4321/tags/longitudinal-changes/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Mental Health</title>
-      <link>https://afilser.netlify.app/tags/mental-health/</link>
+      <link>http://localhost:4321/tags/mental-health/</link>
       <pubDate>Fri, 15 Oct 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://afilser.netlify.app/tags/mental-health/</guid>
+      <guid>http://localhost:4321/tags/mental-health/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Mating Market</title>
-      <link>https://afilser.netlify.app/tags/mating-market/</link>
+      <link>http://localhost:4321/tags/mating-market/</link>
       <pubDate>Sat, 15 May 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://afilser.netlify.app/tags/mating-market/</guid>
+      <guid>http://localhost:4321/tags/mating-market/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Sweden</title>
-      <link>https://afilser.netlify.app/tags/sweden/</link>
+      <link>http://localhost:4321/tags/sweden/</link>
       <pubDate>Sat, 15 May 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://afilser.netlify.app/tags/sweden/</guid>
+      <guid>http://localhost:4321/tags/sweden/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Violent Crime</title>
-      <link>https://afilser.netlify.app/tags/violent-crime/</link>
+      <link>http://localhost:4321/tags/violent-crime/</link>
       <pubDate>Sat, 15 May 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://afilser.netlify.app/tags/violent-crime/</guid>
+      <guid>http://localhost:4321/tags/violent-crime/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>style</title>
-      <link>https://afilser.netlify.app/tags/style/</link>
+      <title>Style</title>
+      <link>http://localhost:4321/tags/style/</link>
       <pubDate>Wed, 27 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://afilser.netlify.app/tags/style/</guid>
+      <guid>http://localhost:4321/tags/style/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>hugo-site</title>
-      <link>https://afilser.netlify.app/tags/hugo-site/</link>
+      <title>Hugo-Site</title>
+      <link>http://localhost:4321/tags/hugo-site/</link>
       <pubDate>Sun, 03 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://afilser.netlify.app/tags/hugo-site/</guid>
+      <guid>http://localhost:4321/tags/hugo-site/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Insurance</title>
-      <link>https://afilser.netlify.app/tags/insurance/</link>
+      <link>http://localhost:4321/tags/insurance/</link>
       <pubDate>Wed, 15 Feb 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://afilser.netlify.app/tags/insurance/</guid>
+      <guid>http://localhost:4321/tags/insurance/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Anthropology</title>
-      <link>https://afilser.netlify.app/tags/anthropology/</link>
+      <link>http://localhost:4321/tags/anthropology/</link>
       <pubDate>Sun, 15 Mar 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://afilser.netlify.app/tags/anthropology/</guid>
+      <guid>http://localhost:4321/tags/anthropology/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Ethics</title>
-      <link>https://afilser.netlify.app/tags/ethics/</link>
+      <link>http://localhost:4321/tags/ethics/</link>
       <pubDate>Sun, 15 Mar 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://afilser.netlify.app/tags/ethics/</guid>
+      <guid>http://localhost:4321/tags/ethics/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>Philosophy Of Man</title>
-      <link>https://afilser.netlify.app/tags/philosophy-of-man/</link>
+      <title>Philosophy of Man</title>
+      <link>http://localhost:4321/tags/philosophy-of-man/</link>
       <pubDate>Sun, 15 Mar 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://afilser.netlify.app/tags/philosophy-of-man/</guid>
+      <guid>http://localhost:4321/tags/philosophy-of-man/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Sociological Theory</title>
-      <link>https://afilser.netlify.app/tags/sociological-theory/</link>
+      <link>http://localhost:4321/tags/sociological-theory/</link>
       <pubDate>Sun, 15 Mar 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://afilser.netlify.app/tags/sociological-theory/</guid>
+      <guid>http://localhost:4321/tags/sociological-theory/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

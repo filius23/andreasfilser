@@ -87,7 +87,7 @@ enableEmoji = true
   # Icon pack "far" includes regular icons, see: https://fontawesome.com/icons?d=gallery&s=regular&m=free
   [[params.social]]
       title     = "IAB Homepage"
-      icon      = "desktop" # icon name without the 'fa-'
+      icon      = "link" # icon name without the 'fa-'
       icon_pack = "fas"
       url       = "https://iab.de/mitarbeiter/?id=5370712"
   [[params.social]]
@@ -99,7 +99,7 @@ enableEmoji = true
       icon_pack = "fab"
       url       = "https://github.com/filius23"
   [[params.social]]
-      icon      = "bluesky" # icon name without the 'fa-'
+      icon      = "linux" # icon name without the 'fa-'
       icon_pack = "fab"
       url       = "https://bsky.app/profile/filsa.bsky.social"
   [[params.social]]
