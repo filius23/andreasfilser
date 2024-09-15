@@ -9,7 +9,7 @@ images:
 - img/round2.png
 show_action_link: true
 show_social_links: true
-subtitle: PostDoc at the Research Data Centre of the Institute for Employment Research (FDZ-IAB)
+subtitle: Researcher at the Research Data Centre of the Institute for Employment Research (FDZ-IAB)
 text_align_left: false
 title: Andreas Filser
 type: home

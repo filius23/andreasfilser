@@ -1,7 +1,7 @@
 ---
 ## Configure sidebar content in narrow column
 author: "Andreas Filser"
-role: "Postdoctoral researcher at the Institute for Employment Research (FDZ-IAB)"
+role: "Researcher at the Institute for Employment Research (FDZ-IAB)"
 avatar_shape: rounded # circle, square, rounded, leave blank to exclude
 show_social_links: true # specify social accounts in site config
 link_list_label: "Interests" # bookmarks, elsewhere, etc.

@@ -1,4 +1,5 @@
 # The function: bibtex_2academic
+library(tidyverse)
 
 bibtex_2rmd <- function(bibfile,
                              outfold,
@@ -67,6 +68,9 @@ bibtex_2rmd <- function(bibfile,
     x = mypubs$keywords
   )
   
+  # create helper var for when number or volume is missing to avoid ugly NAs
+  mypubs$vol_num <- coalesce(mypubs$volume,mypubs$number)
+  
   #add line breaks for the different entries
   # mypubs$annotation<-cat(stri_wrap(mypubs$annotation, whitespace_only = TRUE))
   
@@ -126,10 +130,16 @@ bibtex_2rmd <- function(bibfile,
       group_nest(row_number()) %>% 
       pull(data) %>% 
       map_chr(function(x){
-        templat1 <- ifelse(x$pubtype %in% 6,
-                           "{authors} ({year}). [{title}]({link}). In {editor}: {booktitle}. {pages}, {publisher}.\n\n",
-                           "{authors} ({year}). [{title}]({link}). {journal}, ({volume}){number}, {pages}.\n\n"
-        )
+        # templat1 <- ifelse(x$pubtype %in% 6,
+        #                    "{authors} ({year}). [{title}]({link}). In {editor}: {booktitle}. {pages}, {publisher}.\n\n",
+        #                    "{authors} ({year}). [{title}]({link}). {journal}, ({volume}){number}, {pages}.\n\n"
+        #                    )
+        templat1 <- case_when(
+          x$pubtype %in% 6 ~ "{authors} ({year}). [{title}]({link}). In {editor}: {booktitle}. {pages}, {publisher}.\n\n",
+          is.na(x$number) & is.na(x$volume) ~ "{authors} ({year}). [{title}]({link}). {journal}, {pages}.\n\n",
+          is.na(x$number) | is.na(x$volume) ~ "{authors} ({year}). [{title}]({link}). {journal}, {vol_num}, {pages}.\n\n",
+          TRUE ~                              "{authors} ({year}). [{title}]({link}). {journal}, ({volume}){number}, {pages}.\n\n"
+                           )
         
         glue::glue_data(x, templat1)
       }) %>% 
@@ -139,10 +149,11 @@ bibtex_2rmd <- function(bibfile,
 }
 
 # Run the function
-
-my_bibfile <- "D:/oCloud/webseite/page2/content/publication/eigene.bib"
+my_bibfile <- "D:/oCloud/webseite/andreasfilser/content/publication/eigene.bib"
 out_fold   <- "content/publication"
 bibfile  = my_bibfile;outfold   = out_fold;abstract  = TRUE;overwrite = F
+
+fs::file_info(my_bibfile)
 
 bibtex_2rmd(bibfile  = my_bibfile,
                  outfold   = out_fold,
