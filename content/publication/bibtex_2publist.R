@@ -1,4 +1,5 @@
 # The function: bibtex_2academic
+library(tidyverse)
 
 bibtex_2rmd <- function(bibfile,
                              outfold,
@@ -151,6 +152,8 @@ bibtex_2rmd <- function(bibfile,
 my_bibfile <- "D:/oCloud/webseite/andreasfilser/content/publication/eigene.bib"
 out_fold   <- "content/publication"
 bibfile  = my_bibfile;outfold   = out_fold;abstract  = TRUE;overwrite = F
+
+fs::file_info(my_bibfile)
 
 bibtex_2rmd(bibfile  = my_bibfile,
                  outfold   = out_fold,
