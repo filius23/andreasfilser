@@ -162,8 +162,14 @@ bibtex_2academic <- function(bibfile,
       write(paste0("- \"",ex[["pubtype"]],"\""),fileConn, append = T)
       
       
+        if (exists('ex[["note"]]')) {
+          note_url <- ( grepl("osf", ex[["note"]]) & grepl("https", ex[["note"]])  )
+        } else {
+          note_url <- F
+        }
+        
       #  links
-      if (!is.na(ex[["doi"]]) | !is.na(ex[["url"]]) | ( grepl("osf", ex[["note"]]) & grepl("https", ex[["note"]])  ) ) {
+      if (!is.na(ex[["doi"]]) | !is.na(ex[["url"]]) | note_url  ) {
         write("links:", fileConn, append = T)
       }
         
@@ -186,7 +192,7 @@ bibtex_2academic <- function(bibfile,
       
       
       # Code / Replication repo -> saved as note in zotero -----
-      if ( grepl("osf", ex[["note"]]) & grepl("https", ex[["note"]]) ) {
+      if ( note_url ) {
         url_pattern <- "http[s]?://(?:[a-zA-Z]|[0-9]|[$-_@.&+]|[!*\\(\\),]|(?:%[0-9a-fA-F][0-9a-fA-F]))+"
         code_url <- str_extract(ex[["note"]],url_pattern)
         write(" - icon: osf", fileConn, append = T)
@@ -207,7 +213,6 @@ bibtex_2academic <- function(bibfile,
       
       # Publication details -----------
         # add Editor, Booktitle etc. if applicable
-      
         ## Journal Article: Use Journal Name -----
         if (!is.na(ex[["journal"]])) {
           publication <-  paste0("publication: \'*", ex[["journal"]],"*") # Journal italic
@@ -304,6 +309,10 @@ bibtex_2academic <- function(bibfile,
   # the different "md" files.
   
   apply(mypubs, FUN = function(x) create_rmd(x), MARGIN = 1)
+  
+  
+  # create_md()
+  
 }
 
 # Run the function

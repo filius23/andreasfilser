@@ -4,7 +4,11 @@ library(blogdown) # load blogdown
 #          sample = FALSE,
 #          empty_dirs = TRUE)
 # 
+blogdown::install_theme(theme = "hugo-apero/hugo-apero",
+                        update_config = FALSE, 
+                        force = TRUE)
 
+list.files("awesome",recursive = T)
 
 
 blogdown::check_site()
