@@ -9,19 +9,20 @@ sidebar_left: true
 knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
 library(tidyverse)
 library(kableExtra)
+library(gt)
 # source("content/publication/bibtex_2publist.R")
 ```
 
 
 **[Click here for a detailed publication list including abstracts](/publication)**
 
-```{r,echo=F}
+```{r,echo=F,warning=FALSE,message=F}
 # rstudioapi::navigateToFile("./publication/bibtex_2publist.R") 
 source("./publication/bibtex_2publist.R") 
 ```
 
 ```{r,results='asis',echo=F}
-bibtex_2rmd(bibfile  = my_bibfile,
+  bibtex_2rmd(bibfile  = my_bibfile,
                  outfold   = out_fold,
                  abstract  = TRUE,
                  overwrite = F) %>% 
@@ -29,8 +30,14 @@ bibtex_2rmd(bibfile  = my_bibfile,
   str_replace_all(.,"Ã¤","ä") %>% 
   str_replace_all(.,"Ã¼","ü") %>% 
   str_replace_all(.,"â€™","'") %>% 
-  kable(.,col.names = NULL) %>% 
-  kableExtra::kable_minimal() %>% 
-  kableExtra::kable_styling(bootstrap_options = "hover")
+  enframe() %>% 
+  select(-1) %>% 
+  gt() %>% 
+  tab_options(column_labels.hidden = TRUE) %>% 
+  fmt_markdown() %>% 
+  tab_style(style = list(
+      cell_text(color = "#1C558C")),
+      locations = cells_body()
+      )
 ```
 

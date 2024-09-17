@@ -1,8 +1,5 @@
 # The function: bibtex_2academic
-<<<<<<< HEAD
-=======
 library(tidyverse)
->>>>>>> newmain
 
 bibtex_2rmd <- function(bibfile,
                              outfold,
