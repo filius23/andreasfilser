@@ -1,18 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Teaching (&lt;i&gt;under construction&lt;/i&gt;) on Andreas Filser</title>
+    <title>Teaching on Andreas Filser</title>
     <link>http://localhost:4321/courses/</link>
-    <description>Recent content in Teaching (&lt;i&gt;under construction&lt;/i&gt;) on Andreas Filser</description>
+    <description>Recent content in Teaching on Andreas Filser</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Mon, 28 Feb 2022 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:4321/courses/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Statistik 1 &amp; 2 an der Uni Oldenburg</title>
+      <title>Applied Statistics 1 &amp; 2 for Social Sciences at University of Oldenburg</title>
       <link>http://localhost:4321/courses/uni-oldenburg/</link>
       <pubDate>Mon, 28 Feb 2022 00:00:00 +0000</pubDate>
       <guid>http://localhost:4321/courses/uni-oldenburg/</guid>
+      <description>&lt;p&gt;Test &lt;em&gt;text&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>R-Kurs am IAB</title>
+      <link>http://localhost:4321/courses/bibb_r/</link>
+      <pubDate>Mon, 20 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/courses/bibb_r/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>R-Kurse am BIBB</title>
+      <link>http://localhost:4321/courses/iab_r/</link>
+      <pubDate>Mon, 20 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/courses/iab_r/</guid>
       <description></description>
     </item>
     <item>

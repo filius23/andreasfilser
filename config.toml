@@ -30,9 +30,8 @@ enableEmoji = true
 [params]
   orgName = "Andreas Filser"
   orgLocal = "Nuremberg"
-  description = "Where does this show up?"
-  favicon = "/img/favicon.ico"
-  logo = "/img/blogophonic-mark-dark.png"
+  favicon = "/assets/img/compass-regular.svg"
+  logo =    "/assets/img/compass-regular.svg"
   mainSections = ["publication", "courses"]
   navallcaps = true
   # show/hide social icons in site header & footer
@@ -70,7 +69,7 @@ enableEmoji = true
 
   # Configuration of https://utteranc.es/ for comments
   [params.utterances]
-    use_utterances = true
+    use_utterances = false
     repo_name = "apreshill/apero"
     issue_term = "pathname" # url, pathname, or title
     theme = "boxy-light"
@@ -100,7 +99,7 @@ enableEmoji = true
       url       = "https://github.com/filius23"
   [[params.social]]
       icon      = "bluesky" # icon name without the 'fa-'
-      icon_pack = "fas"
+      icon_pack = "fa"
       url       = "https://bsky.app/profile/filsa.bsky.social"
   [[params.social]]
       icon      = "orcid" # icon name without the 'fa-'

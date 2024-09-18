@@ -4,8 +4,8 @@ description: Feel free to contact me if you're interested in my work, interested
 draft: false
 formspree_form_id: id-from-formspree
 layout: split-right
-name: Contact Us Form
-show_poweredby_formspree: true
+name: Contact Form
+show_poweredby_formspree: false
 show_social_links: true
 submit_button_label: Send Message
 title: Contact

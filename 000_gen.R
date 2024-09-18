@@ -24,7 +24,8 @@ blogdown::serve_site()
 
 # https://www.netlify.com/blog/2018/07/24/hugo-tips-how-to-create-author-pages/
   
-  
+  ## QUARTO
+# https://silviacanelon.com/blog/2023-09-29-hello-quarto/
 
 usethis::use_git_config()
 usethis::use_github()

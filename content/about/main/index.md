@@ -9,7 +9,7 @@ headless: true
 intro: |
   I am a sociologist and demographer at the Research Data Centre of the Institute for Employment Research ([FDZ-IAB](https://fdz.iab.de/en.aspx) ) in Nuremberg (Germany). 
   
-  My research focuses upon the labour market consequences of motherhood and how couples navigate the labour market when transitioning into parenthood. Currently, I am part of an international project where we analyse the employment trajectories of mothers in France and Germany.
+  My research focuses upon how couples navigate the labour market when transitioning into parenthood. Currently, I am part of an international project where we analyse the employment trajectories of mothers in France and Germany. Another current project explores the determinants and consequences of father's parental leave.
   
   I enjoy the linkage, procurement, and analysis of data using R and Stata. In a recent [paper](/publication/2022_update_identifying_mothers/), we updated the identification process of mothers in the labour market data at the IAB. Another [paper]() provides smartphone-based mobility indicators for PASS participations. Currently, I am developing an [R-shiny](shiny.rstudio.com/) dashboard to streamline data applications at the FDZ-IAB.
   
