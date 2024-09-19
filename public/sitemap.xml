@@ -8,6 +8,9 @@
     <loc>http://localhost:4321/courses/bibb_r/</loc>
     <lastmod>2021-12-20T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:4321/courses/iab_r/</loc>
+    <lastmod>2021-12-20T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:4321/courses/bibb/</loc>
     <lastmod>2021-12-20T00:00:00+00:00</lastmod>
   </url><url>
@@ -36,10 +39,10 @@
     <lastmod>2021-01-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:4321/</loc>
-    <lastmod>2024-09-18T00:00:00+00:00</lastmod>
+    <lastmod>2024-09-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:4321/publication_list/</loc>
-    <lastmod>2024-09-18T00:00:00+00:00</lastmod>
+    <lastmod>2024-09-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:4321/publication/2024_are_local_sex/</loc>
     <lastmod>2024-05-15T00:00:00+00:00</lastmod>
@@ -317,8 +320,8 @@
     <loc>http://localhost:4321/tags/sociological-theory/</loc>
     <lastmod>2015-03-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/contributors/</loc>
-  </url><url>
     <loc>http://localhost:4321/license/</loc>
+  </url><url>
+    <loc>http://localhost:4321/contributors/</loc>
   </url>
 </urlset>

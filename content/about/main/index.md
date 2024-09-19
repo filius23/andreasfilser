@@ -11,7 +11,7 @@ intro: |
   
   My research focuses upon how couples navigate the labour market when transitioning into parenthood. Currently, I am part of an international project where we analyse the employment trajectories of mothers in France and Germany. Another current project explores the determinants and consequences of father's parental leave.
   
-  I enjoy the linkage, procurement, and analysis of data using R and Stata. In a recent [paper](/publication/2022_update_identifying_mothers/), we updated the identification process of mothers in the labour market data at the IAB. Another [paper]() provides smartphone-based mobility indicators for PASS participations. Currently, I am developing an [R-shiny](shiny.rstudio.com/) dashboard to streamline data applications at the FDZ-IAB.
+  I enjoy the linkage, procurement, and analysis of data using R and Stata. In a recent [paper](/publication/2022_update_identifying_mothers/), we updated the identification process of mothers in the labour market data at the IAB. Another [paper]() provides smartphone-based mobility indicators for PASS participations. Currently, I am developing an [R-shiny](https://shiny.posit.co/) dashboard to streamline data applications at the FDZ-IAB.
   
   Moreover, I am interested in consequences of imbalanced numbers of women and men in groups or regions, i.e. imbalanced sex ratios. In my dissertation project, I analysed how skewed sex ratios are associated with the formation of relationships, risk-taking, and violence.
   

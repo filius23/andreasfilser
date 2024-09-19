@@ -102,6 +102,10 @@ enableEmoji = true
       icon_pack = "fa"
       url       = "https://bsky.app/profile/filsa.bsky.social"
   [[params.social]]
+      icon      = "linkedin-in" # icon name without the 'fa-'
+      icon_pack = "fab"
+      url       = "https://www.linkedin.com/in/andreas-filser-85919450/"
+  [[params.social]]
       icon      = "orcid" # icon name without the 'fa-'
       icon_pack = "ai"
       url       = "https://orcid.org/0000-0001-5530-3621"
