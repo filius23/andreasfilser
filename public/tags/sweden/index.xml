@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sweden on Andreas Filser</title>
+    <link>http://localhost:4321/tags/sweden/</link>
+    <description>Recent content in Sweden on Andreas Filser</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 15 May 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:4321/tags/sweden/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Are Skewed Sex Ratios Associated with Violent Crime? A Longitudinal Analysis Using Swedish Register Data</title>
+      <link>http://localhost:4321/publication/2021_are_skewed_sex/</link>
+      <pubDate>Sat, 15 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/publication/2021_are_skewed_sex/</guid>
+      <description>&lt;h4 id=&#34;abstract&#34;&gt;Abstract&#xA;  &lt;a href=&#34;#abstract&#34;&gt;&lt;/a&gt;&#xA;&lt;/h4&gt;&#xA;&lt;p&gt;There is widespread concern in both the popular and academic literature that a surplus of men in a population intensifies mating competition between men, particularly unpartnered men, resulting in increased violence towards both men and women. Recent contributions challenge this perspective and argue that male mating competition and levels of violence will be higher when sex ratios are female-skewed. Existing empirical evidence remains inconclusive. We argue that this empirical ambiguity results from analyses of aggregate-level data, which put inferences at risk of ecological fallacies. Our analysis circumvents such problems by using individual-level, longitudinal demographic register and police data for the Stockholm metropolitan area, Sweden (1990-2003, n~=~758,498). These data allow us to investigate the association between municipality-level sex ratios and violent offending (homicide, assault, threat, and sexual crimes) while adjusting for sociodemographic factors. Results suggest that aggregated offending rates are negatively associated with male-skewed sex ratios, whereas individual-level violent offending correlates positively with male-skews. We find that the more-men-more-violence association holds particularly for male violence against other men, but is insignificant for violence against women. Moreover, the association is significant among childless men, but not among fathers. However, robustness checks question the causality of these associations. Female violent offending is positively, albeit due to a low number of cases, insignificantly associated with male-skews. Moreover, both male and female non-violent offending is higher in male-skewed municipalities. We discuss the implications with regard to the theoretical debate and problems of unobserved heterogeneity in the sex ratio literature.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kinderzahl on Andreas Filser</title>
+    <link>http://localhost:4321/tags/kinderzahl/</link>
+    <description>Recent content in Kinderzahl on Andreas Filser</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 15 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:4321/tags/kinderzahl/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Update: Identifying Mothers in Administrative Data</title>
+      <link>http://localhost:4321/publication/2022_update_identifying_mothers/</link>
+      <pubDate>Sat, 15 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/publication/2022_update_identifying_mothers/</guid>
+      <description>&lt;h4 id=&#34;abstract&#34;&gt;Abstract&#xA;  &lt;a href=&#34;#abstract&#34;&gt;&lt;/a&gt;&#xA;&lt;/h4&gt;&#xA;&lt;p&gt;Administrative data of the Federal Employment Agency provide an important data base for labour market research. However, the Federal Employment Agency&amp;rsquo;s tasks define what kind of information is recorded. Therefore, some information is missing that is relevant for various research purposes. One example is information on childbirth, which can be important when analysing female employment biographies. It is still mainly mothers who interrupt their employment to care for their children. These employment interruptions could have different effects on the career of mothers, e.g. wage reductions, reduced career opportunities or an increase in part-time employment. The FDZ-Methodenreport 13/2017 (Müller/Strauch 2017) presented one way to identify family-related employment breaks using indirect identifiers in the administrative data. With this FDZ-Methodenreport, we updated the identification strategy and adapted it to new dataset versions. We use official statistics on births to validate our identification strategy. We make our program code available as an appendix for the research community. Users can adapt when necessary.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

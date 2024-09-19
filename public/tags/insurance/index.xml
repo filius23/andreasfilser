@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Insurance on Andreas Filser</title>
+    <link>http://localhost:4321/tags/insurance/</link>
+    <description>Recent content in Insurance on Andreas Filser</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 15 Feb 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:4321/tags/insurance/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Krankenkassen im regionalen Vergleich</title>
+      <link>http://localhost:4321/publication/2017_krankenkassen_im_regionalen/</link>
+      <pubDate>Wed, 15 Feb 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/publication/2017_krankenkassen_im_regionalen/</guid>
+      <description>&lt;h4 id=&#34;abstract&#34;&gt;Abstract&#xA;  &lt;a href=&#34;#abstract&#34;&gt;&lt;/a&gt;&#xA;&lt;/h4&gt;&#xA;&lt;p&gt;(Abstract not available)&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;&#xA;&lt;a href=&#34;http://localhost:4321/publication&#34;&gt;Back to publication list&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
