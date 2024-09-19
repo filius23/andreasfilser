@@ -10,7 +10,7 @@ cascade:
     text_link_url: /publication/
     show_sidebar_adunit: false # show ad container
 sidebar_left: true  
-description: "Click on the title to read the abstract<br>You can find a full condensed publications list [here](/publication_list)"
+description: "Click on the title to read the abstract<br>You can find a full condensed publications list [here](/publication_list) <br> and find me on [Google Scholar <i class='ai ai-google-scholar'></i>](https://scholar.google.de/citations?user=vP7topAAAAAJ)"
 layout: list # list, list-sidebar, list-grid
 show_post_thumbnail: false
 show_author_byline: false 
