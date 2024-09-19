@@ -30,8 +30,8 @@ enableEmoji = true
 [params]
   orgName = "Andreas Filser"
   orgLocal = "Nuremberg"
-  favicon = "/assets/img/compass-regular.svg"
-  logo =    "/assets/img/compass-regular.svg"
+  favicon = "assets/img/compass-regular.svg"
+  logo =    "assets/img/compass-regular.svg"
   mainSections = ["publication", "courses"]
   navallcaps = true
   # show/hide social icons in site header & footer
