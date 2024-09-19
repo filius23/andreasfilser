@@ -1,13 +1,13 @@
 ---
 date: "2022-06-08"
-description: Feel free to contact me if you're interested in my work, interested in collaboration or think I can help you with R- or Stata-related questions.<br>Or just say hello!
+description: Contact me if you're interested in my work, interested in collaboration, or think I can help you with R- or Stata-related questions.<br>Or just say hello!
 draft: false
-formspree_form_id: id-from-formspree
+#formspree_form_id: id-from-formspree
 layout: split-right
 name: Contact Form
 show_poweredby_formspree: false
 show_social_links: true
-submit_button_label: Send Message
+# submit_button_label: Send Message
 title: Contact
 type: form
 url: contact

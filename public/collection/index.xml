@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Create a Collection on Andreas Filser</title>
-    <link>http://localhost:4321/collection/</link>
+    <link>https://afilser.netlify.app/collection/</link>
     <description>Recent content in Create a Collection on Andreas Filser</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:4321/collection/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://afilser.netlify.app/collection/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Stata at BIBB</title>
-      <link>http://localhost:4321/collection/bibb/</link>
+      <link>https://afilser.netlify.app/collection/bibb/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/collection/bibb/</guid>
+      <guid>https://afilser.netlify.app/collection/bibb/</guid>
       <description></description>
     </item>
   </channel>

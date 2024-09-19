@@ -136,16 +136,11 @@ enableEmoji = true
     title = "Courses I have taught"
     url = "/courses/"
     weight = 3
-  [[menu.footer]]
-    name = "Contact"
-    title = "Contact form"
-    url = "/contact/"
-    weight = 4
   [[menu.header]]
     name = "About"
     title = "About Me"
     url = "/about/"
-    weight = 5
+    weight = 4
   
     
   # Configure footer  
@@ -155,15 +150,10 @@ enableEmoji = true
     url = "/license/"
     weight = 1
   [[menu.footer]]
-    name = "Contact"
-    title = "Contact form"
-    url = "/contact/"
-    weight = 2
-  [[menu.footer]]
     name = "Contributors"
     title = "Contributors"
     url = "/contributors/"
-    weight = 3
+    weight = 2
 
 # see https://gohugo.io/about/hugo-and-gdpr/    
 [privacy]

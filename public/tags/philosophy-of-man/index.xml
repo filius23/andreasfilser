@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Philosophy of Man on Andreas Filser</title>
-    <link>http://localhost:4321/tags/philosophy-of-man/</link>
+    <link>https://afilser.netlify.app/tags/philosophy-of-man/</link>
     <description>Recent content in Philosophy of Man on Andreas Filser</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sun, 15 Mar 2015 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:4321/tags/philosophy-of-man/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://afilser.netlify.app/tags/philosophy-of-man/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Demographische Maskulinisierung und Gewalt</title>
-      <link>http://localhost:4321/publication/dem-masku/</link>
+      <link>https://afilser.netlify.app/publication/dem-masku/</link>
       <pubDate>Sun, 15 Mar 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/publication/dem-masku/</guid>
+      <guid>https://afilser.netlify.app/publication/dem-masku/</guid>
       <description>&lt;h4 id=&#34;abstract&#34;&gt;Abstract&#xA;  &lt;a href=&#34;#abstract&#34;&gt;&lt;/a&gt;&#xA;&lt;/h4&gt;&#xA;&lt;p&gt;Vor dem Hintergrund des demographischen Ungleichgewichts von Männern und Frauen in Asien beschäftigen sich diverse Autoren mit möglichen Konsequenzen eines Frauen- oder Männermangels, unter anderem auf die Gewaltinzidenz in den betroffenen Gesellschaften oder Regionen. Allerdings präsentieren sich die bisherigen theoretischen Ansätze wie auch die empirische Evidenz als uneinheitlich. Der Beitrag gibt einen Überblick über sozialwissenschaftliche und evolutionstheoretische Perspektiven auf die Fragestellung und versucht, diese zu integrieren. Darüber hinaus werden empirische Befunde dargestellt und eingeordnet sowie eigene Projekte vorgestellt und Forschungsdesiderata formuliert.&lt;/p&gt;</description>
     </item>
   </channel>

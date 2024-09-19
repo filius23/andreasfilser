@@ -2,326 +2,259 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:4321/courses/uni-oldenburg/</loc>
+    <loc>https://afilser.netlify.app/courses/uni-oldenburg/</loc>
     <lastmod>2022-02-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/courses/bibb_r/</loc>
+    <loc>https://afilser.netlify.app/courses/bibb_r/</loc>
     <lastmod>2021-12-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/courses/iab_r/</loc>
+    <loc>https://afilser.netlify.app/courses/iab_r/</loc>
     <lastmod>2021-12-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/courses/bibb/</loc>
+    <loc>https://afilser.netlify.app/courses/bibb/</loc>
     <lastmod>2021-12-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/collection/day02/01-netlify/</loc>
+    <loc>https://afilser.netlify.app/collection/day02/01-netlify/</loc>
     <lastmod>2021-01-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/blog/spoonful-series/01-spoonful/</loc>
+    <loc>https://afilser.netlify.app/collection/bibb/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/collection/bibb/</loc>
+    <loc>https://afilser.netlify.app/collection/day02/02-blogdown/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/blog/spoonful-series/02-spoonful/</loc>
-    <lastmod>2021-01-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:4321/collection/day02/02-blogdown/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:4321/collection/day02/</loc>
+    <loc>https://afilser.netlify.app/collection/day02/</loc>
     <lastmod>2021-01-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/blog/spoonful-series/03-spoonful/</loc>
-    <lastmod>2021-01-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:4321/collection/day02/03-blogdown/</loc>
+    <loc>https://afilser.netlify.app/collection/day02/03-blogdown/</loc>
     <lastmod>2021-01-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/</loc>
+    <loc>https://afilser.netlify.app/</loc>
     <lastmod>2024-09-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/publication_list/</loc>
+    <loc>https://afilser.netlify.app/publication_list/</loc>
     <lastmod>2024-09-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/publication/2024_are_local_sex/</loc>
+    <loc>https://afilser.netlify.app/publication/2024_are_local_sex/</loc>
     <lastmod>2024-05-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/publication/</loc>
+    <loc>https://afilser.netlify.app/publication/</loc>
     <lastmod>2024-05-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/tags/administrative-data/</loc>
+    <loc>https://afilser.netlify.app/tags/administrative-data/</loc>
     <lastmod>2023-09-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/tags/and-work/</loc>
+    <loc>https://afilser.netlify.app/tags/and-work/</loc>
     <lastmod>2023-09-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/tags/france/</loc>
+    <loc>https://afilser.netlify.app/tags/france/</loc>
     <lastmod>2023-09-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/tags/germany/</loc>
+    <loc>https://afilser.netlify.app/tags/germany/</loc>
     <lastmod>2023-09-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/tags/international-comparison/</loc>
+    <loc>https://afilser.netlify.app/tags/international-comparison/</loc>
     <lastmod>2023-09-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/tags/labor-market/</loc>
+    <loc>https://afilser.netlify.app/tags/labor-market/</loc>
     <lastmod>2023-09-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/tags/maternal-employment/</loc>
+    <loc>https://afilser.netlify.app/tags/maternal-employment/</loc>
     <lastmod>2023-09-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/tags/motherhood-penalty/</loc>
+    <loc>https://afilser.netlify.app/tags/motherhood-penalty/</loc>
     <lastmod>2023-09-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/publication/2023_mothers_employment_in/</loc>
+    <loc>https://afilser.netlify.app/publication/2023_mothers_employment_in/</loc>
     <lastmod>2023-09-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/tags/occupations/</loc>
+    <loc>https://afilser.netlify.app/tags/occupations/</loc>
     <lastmod>2023-09-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/tags/organizations/</loc>
+    <loc>https://afilser.netlify.app/tags/organizations/</loc>
     <lastmod>2023-09-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/tags/social-and-behavioral-sciences/</loc>
+    <loc>https://afilser.netlify.app/tags/social-and-behavioral-sciences/</loc>
     <lastmod>2023-09-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/tags/sociology/</loc>
+    <loc>https://afilser.netlify.app/tags/sociology/</loc>
     <lastmod>2023-09-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/tags/</loc>
+    <loc>https://afilser.netlify.app/tags/</loc>
     <lastmod>2023-09-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/tags/adults/</loc>
+    <loc>https://afilser.netlify.app/tags/adults/</loc>
     <lastmod>2022-06-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/tags/culture/</loc>
+    <loc>https://afilser.netlify.app/tags/culture/</loc>
     <lastmod>2022-06-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/tags/human-families/</loc>
+    <loc>https://afilser.netlify.app/tags/human-families/</loc>
     <lastmod>2022-06-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/tags/north-america/</loc>
+    <loc>https://afilser.netlify.app/tags/north-america/</loc>
     <lastmod>2022-06-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/tags/population-growth/</loc>
+    <loc>https://afilser.netlify.app/tags/population-growth/</loc>
     <lastmod>2022-06-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/tags/sex-ratio/</loc>
+    <loc>https://afilser.netlify.app/tags/sex-ratio/</loc>
     <lastmod>2022-06-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/publication/2022_sex_ratios_and/</loc>
+    <loc>https://afilser.netlify.app/publication/2022_sex_ratios_and/</loc>
     <lastmod>2022-06-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/tags/valleys/</loc>
+    <loc>https://afilser.netlify.app/tags/valleys/</loc>
     <lastmod>2022-06-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/contact/</loc>
+    <loc>https://afilser.netlify.app/contact/</loc>
     <lastmod>2022-06-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/form/</loc>
+    <loc>https://afilser.netlify.app/form/</loc>
     <lastmod>2022-06-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/courses/</loc>
+    <loc>https://afilser.netlify.app/courses/</loc>
     <lastmod>2022-02-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/tags/adolescent-health/</loc>
+    <loc>https://afilser.netlify.app/tags/adolescent-health/</loc>
     <lastmod>2022-01-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/publication/2022_adolescent_school_injuries/</loc>
+    <loc>https://afilser.netlify.app/publication/2022_adolescent_school_injuries/</loc>
     <lastmod>2022-01-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/tags/bundesagentur-f%C3%BCr-arbeit/</loc>
+    <loc>https://afilser.netlify.app/tags/bundesagentur-f%C3%BCr-arbeit/</loc>
     <lastmod>2022-01-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/tags/bundesrepublik-deutschland/</loc>
+    <loc>https://afilser.netlify.app/tags/bundesrepublik-deutschland/</loc>
     <lastmod>2022-01-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/tags/daten/</loc>
+    <loc>https://afilser.netlify.app/tags/daten/</loc>
     <lastmod>2022-01-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/tags/datenanalyse/</loc>
+    <loc>https://afilser.netlify.app/tags/datenanalyse/</loc>
     <lastmod>2022-01-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/tags/erwerbsunterbrechung/</loc>
+    <loc>https://afilser.netlify.app/tags/erwerbsunterbrechung/</loc>
     <lastmod>2022-01-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/tags/kinderzahl/</loc>
+    <loc>https://afilser.netlify.app/tags/kinderzahl/</loc>
     <lastmod>2022-01-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/tags/m%C3%BCtter/</loc>
+    <loc>https://afilser.netlify.app/tags/m%C3%BCtter/</loc>
     <lastmod>2022-01-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/tags/peer-effects/</loc>
+    <loc>https://afilser.netlify.app/tags/peer-effects/</loc>
     <lastmod>2022-01-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/tags/school-injury/</loc>
+    <loc>https://afilser.netlify.app/tags/school-injury/</loc>
     <lastmod>2022-01-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/tags/sex-composition/</loc>
+    <loc>https://afilser.netlify.app/tags/sex-composition/</loc>
     <lastmod>2022-01-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/publication/2022_update_identifying_mothers/</loc>
+    <loc>https://afilser.netlify.app/publication/2022_update_identifying_mothers/</loc>
     <lastmod>2022-01-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/publication/2021_bleibt_alles_anders/</loc>
+    <loc>https://afilser.netlify.app/publication/2021_bleibt_alles_anders/</loc>
     <lastmod>2021-10-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/tags/covid19/</loc>
+    <loc>https://afilser.netlify.app/tags/covid19/</loc>
     <lastmod>2021-10-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/tags/emerging-adulthood/</loc>
+    <loc>https://afilser.netlify.app/tags/emerging-adulthood/</loc>
     <lastmod>2021-10-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/tags/life-satisfaction/</loc>
+    <loc>https://afilser.netlify.app/tags/life-satisfaction/</loc>
     <lastmod>2021-10-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/tags/longitudinal-changes/</loc>
+    <loc>https://afilser.netlify.app/tags/longitudinal-changes/</loc>
     <lastmod>2021-10-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/publication/2021_longitudinal_changes_in/</loc>
+    <loc>https://afilser.netlify.app/publication/2021_longitudinal_changes_in/</loc>
     <lastmod>2021-10-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/tags/mental-health/</loc>
+    <loc>https://afilser.netlify.app/tags/mental-health/</loc>
     <lastmod>2021-10-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/publication/2021_do_local_sex/</loc>
+    <loc>https://afilser.netlify.app/publication/2021_do_local_sex/</loc>
     <lastmod>2021-06-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/publication/2021_are_skewed_sex/</loc>
+    <loc>https://afilser.netlify.app/publication/2021_are_skewed_sex/</loc>
     <lastmod>2021-05-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/tags/mating-market/</loc>
+    <loc>https://afilser.netlify.app/tags/mating-market/</loc>
     <lastmod>2021-05-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/tags/sweden/</loc>
+    <loc>https://afilser.netlify.app/tags/sweden/</loc>
     <lastmod>2021-05-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/tags/violent-crime/</loc>
+    <loc>https://afilser.netlify.app/tags/violent-crime/</loc>
     <lastmod>2021-05-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/blog/</loc>
-    <lastmod>2021-01-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:4321/categories/</loc>
-    <lastmod>2021-01-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:4321/blog/social/</loc>
-    <lastmod>2021-01-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:4321/categories/theme-features/</loc>
-    <lastmod>2021-01-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:4321/tags/style/</loc>
-    <lastmod>2021-01-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:4321/blog/color-themes/</loc>
-    <lastmod>2021-01-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:4321/blog/fonts/</loc>
-    <lastmod>2021-01-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:4321/collection/</loc>
+    <loc>https://afilser.netlify.app/collection/</loc>
     <lastmod>2021-01-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/blog/evergreen/</loc>
-    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:4321/categories/evergreen/</loc>
-    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:4321/talk/campfire/</loc>
-    <lastmod>2021-01-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:4321/talk/</loc>
-    <lastmod>2021-01-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:4321/categories/workshop/</loc>
-    <lastmod>2021-01-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:4321/series/a-spoonful-of-hugo/</loc>
-    <lastmod>2021-01-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:4321/blog/spoonful-series/</loc>
-    <lastmod>2021-01-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:4321/tags/hugo-site/</loc>
-    <lastmod>2021-01-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:4321/categories/r/</loc>
-    <lastmod>2021-01-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:4321/series/</loc>
-    <lastmod>2021-01-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:4321/blog/seedling/</loc>
-    <lastmod>2021-01-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:4321/talk/second-seedling/</loc>
-    <lastmod>2021-01-01T14:15:59-06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:4321/categories/meetup/</loc>
-    <lastmod>2021-01-01T14:15:59-06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:4321/blog/rmarkdown/</loc>
-    <lastmod>2020-12-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:4321/talk/seedling/</loc>
-    <lastmod>2020-01-13T14:15:59-06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:4321/publication/2019_social_outcomes_and/</loc>
+    <loc>https://afilser.netlify.app/publication/2019_social_outcomes_and/</loc>
     <lastmod>2019-11-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/publication/2019_sex_ratio_and/</loc>
+    <loc>https://afilser.netlify.app/publication/2019_sex_ratio_and/</loc>
     <lastmod>2019-08-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/project/</loc>
+    <loc>https://afilser.netlify.app/project/</loc>
     <lastmod>2019-07-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/categories/package/</loc>
+    <loc>https://afilser.netlify.app/categories/</loc>
     <lastmod>2019-07-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/project/giraffes/</loc>
+    <loc>https://afilser.netlify.app/tags/hugo-site/</loc>
     <lastmod>2019-07-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/blog/css-grid-scaffold/</loc>
+    <loc>https://afilser.netlify.app/categories/package/</loc>
+    <lastmod>2019-07-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://afilser.netlify.app/categories/r/</loc>
+    <lastmod>2019-07-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://afilser.netlify.app/project/giraffes/</loc>
+    <lastmod>2019-07-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://afilser.netlify.app/categories/theme-features/</loc>
+    <lastmod>2019-07-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://afilser.netlify.app/project/penguins/</loc>
     <lastmod>2019-07-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/project/penguins/</loc>
-    <lastmod>2019-07-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:4321/project/bakeoff/</loc>
+    <loc>https://afilser.netlify.app/project/bakeoff/</loc>
     <lastmod>2019-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/blog/built-in-contact-form/</loc>
-    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:4321/publication/2018_mehr_maenner_mehr/</loc>
+    <loc>https://afilser.netlify.app/publication/2018_mehr_maenner_mehr/</loc>
     <lastmod>2018-01-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/tags/insurance/</loc>
+    <loc>https://afilser.netlify.app/tags/insurance/</loc>
     <lastmod>2017-02-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/publication/2017_krankenkassen_im_regionalen/</loc>
+    <loc>https://afilser.netlify.app/publication/2017_krankenkassen_im_regionalen/</loc>
     <lastmod>2017-02-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/tags/anthropology/</loc>
+    <loc>https://afilser.netlify.app/tags/anthropology/</loc>
     <lastmod>2015-03-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/publication/dem-masku/</loc>
+    <loc>https://afilser.netlify.app/publication/dem-masku/</loc>
     <lastmod>2015-03-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/tags/ethics/</loc>
+    <loc>https://afilser.netlify.app/tags/ethics/</loc>
     <lastmod>2015-03-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/tags/philosophy-of-man/</loc>
+    <loc>https://afilser.netlify.app/tags/philosophy-of-man/</loc>
     <lastmod>2015-03-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/tags/sociological-theory/</loc>
+    <loc>https://afilser.netlify.app/tags/sociological-theory/</loc>
     <lastmod>2015-03-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/license/</loc>
+    <loc>https://afilser.netlify.app/license/</loc>
   </url><url>
-    <loc>http://localhost:4321/contributors/</loc>
+    <loc>https://afilser.netlify.app/contributors/</loc>
+  </url><url>
+    <loc>https://afilser.netlify.app/series/</loc>
   </url>
 </urlset>

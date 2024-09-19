@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Teaching on Andreas Filser</title>
-    <link>http://localhost:4321/courses/</link>
+    <link>https://afilser.netlify.app/courses/</link>
     <description>Recent content in Teaching on Andreas Filser</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Mon, 28 Feb 2022 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:4321/courses/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://afilser.netlify.app/courses/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Applied Statistics 1 &amp; 2 for Social Sciences at University of Oldenburg</title>
-      <link>http://localhost:4321/courses/uni-oldenburg/</link>
+      <link>https://afilser.netlify.app/courses/uni-oldenburg/</link>
       <pubDate>Mon, 28 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/courses/uni-oldenburg/</guid>
+      <guid>https://afilser.netlify.app/courses/uni-oldenburg/</guid>
       <description>&lt;p&gt;Test &lt;em&gt;text&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>R-Kurs am IAB</title>
-      <link>http://localhost:4321/courses/bibb_r/</link>
+      <link>https://afilser.netlify.app/courses/bibb_r/</link>
       <pubDate>Mon, 20 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/courses/bibb_r/</guid>
+      <guid>https://afilser.netlify.app/courses/bibb_r/</guid>
       <description></description>
     </item>
     <item>
       <title>R-Kurse am BIBB</title>
-      <link>http://localhost:4321/courses/iab_r/</link>
+      <link>https://afilser.netlify.app/courses/iab_r/</link>
       <pubDate>Mon, 20 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/courses/iab_r/</guid>
+      <guid>https://afilser.netlify.app/courses/iab_r/</guid>
       <description></description>
     </item>
     <item>
       <title>Stata-Kurse am BIBB</title>
-      <link>http://localhost:4321/courses/bibb/</link>
+      <link>https://afilser.netlify.app/courses/bibb/</link>
       <pubDate>Mon, 20 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/courses/bibb/</guid>
+      <guid>https://afilser.netlify.app/courses/bibb/</guid>
       <description>&lt;h2 id=&#34;kursunterlagen&#34;&gt;Kursunterlagen&#xA;  &lt;a href=&#34;#kursunterlagen&#34;&gt;&lt;svg class=&#34;anchor-symbol&#34; aria-hidden=&#34;true&#34; height=&#34;26&#34; width=&#34;26&#34; viewBox=&#34;0 0 22 22&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&#xA;      &lt;path d=&#34;M0 0h24v24H0z&#34; fill=&#34;currentColor&#34;&gt;&lt;/path&gt;&#xA;      &lt;path d=&#34;M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z&#34;&gt;&lt;/path&gt;&#xA;    &lt;/svg&gt;&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;h3 id=&#34;einführung-in-stata-mit-statistischem-hintergrundwissen&#34;&gt;Einführung in Stata mit statistischem Hintergrundwissen&#xA;  &lt;a href=&#34;#einf%c3%bchrung-in-stata-mit-statistischem-hintergrundwissen&#34;&gt;&lt;svg class=&#34;anchor-symbol&#34; aria-hidden=&#34;true&#34; height=&#34;26&#34; width=&#34;26&#34; viewBox=&#34;0 0 22 22&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&#xA;      &lt;path d=&#34;M0 0h24v24H0z&#34; fill=&#34;currentColor&#34;&gt;&lt;/path&gt;&#xA;      &lt;path d=&#34;M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z&#34;&gt;&lt;/path&gt;&#xA;    &lt;/svg&gt;&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;h3 id=&#34;einführung-in-stata-für-fortgeschrittene-anwenderinnen-anderer-programme&#34;&gt;Einführung in Stata für fortgeschrittene Anwender:innen anderer Programme&#xA;  &lt;a href=&#34;#einf%c3%bchrung-in-stata-f%c3%bcr-fortgeschrittene-anwenderinnen-anderer-programme&#34;&gt;&lt;svg class=&#34;anchor-symbol&#34; aria-hidden=&#34;true&#34; height=&#34;26&#34; width=&#34;26&#34; viewBox=&#34;0 0 22 22&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&#xA;      &lt;path d=&#34;M0 0h24v24H0z&#34; fill=&#34;currentColor&#34;&gt;&lt;/path&gt;&#xA;      &lt;path d=&#34;M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z&#34;&gt;&lt;/path&gt;&#xA;    &lt;/svg&gt;&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;h3 id=&#34;tabellenexport-in-word-und-latex-mit-stata&#34;&gt;Tabellenexport in Word und Latex mit Stata&#xA;  &lt;a href=&#34;#tabellenexport-in-word-und-latex-mit-stata&#34;&gt;&lt;svg class=&#34;anchor-symbol&#34; aria-hidden=&#34;true&#34; height=&#34;26&#34; width=&#34;26&#34; viewBox=&#34;0 0 22 22&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&#xA;      &lt;path d=&#34;M0 0h24v24H0z&#34; fill=&#34;currentColor&#34;&gt;&lt;/path&gt;&#xA;      &lt;path d=&#34;M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z&#34;&gt;&lt;/path&gt;&#xA;    &lt;/svg&gt;&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;h3 id=&#34;programmieren-mit-stata&#34;&gt;Programmieren mit Stata&#xA;  &lt;a href=&#34;#programmieren-mit-stata&#34;&gt;&lt;svg class=&#34;anchor-symbol&#34; aria-hidden=&#34;true&#34; height=&#34;26&#34; width=&#34;26&#34; viewBox=&#34;0 0 22 22&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&#xA;      &lt;path d=&#34;M0 0h24v24H0z&#34; fill=&#34;currentColor&#34;&gt;&lt;/path&gt;&#xA;      &lt;path d=&#34;M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z&#34;&gt;&lt;/path&gt;&#xA;    &lt;/svg&gt;&lt;/a&gt;&#xA;&lt;/h3&gt;</description>
     </item>
   </channel>
